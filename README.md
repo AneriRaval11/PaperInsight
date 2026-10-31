@@ -14,9 +14,10 @@ From dense journal articles to technical reports, PaperInsight turns PDFs into a
 ## 🎬 Demo
 
 <p align="center">
-  <video src="demo.mp4" width="900" controls autoplay muted loop></video>
+  <video src="https://github.com/AneriRaval11/PaperInsight/raw/main/demo.mp4" width="900" controls autoplay muted loop></video>
 </p>
 
+[Download the demo video](https://github.com/AneriRaval11/PaperInsight/raw/main/demo.mp4)
 
 ## ✨ Features
 
