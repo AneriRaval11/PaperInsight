@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Env / secrets
+.env
+.env.*
+
+# Streamlit
+.streamlit/
+
+# Generated app data
+faiss_index/
+*.bin
+
+# Local notebooks / caches
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
